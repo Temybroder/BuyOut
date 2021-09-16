@@ -1,2 +1,2 @@
 # BuyOut
-A Django-based E-COMMERCE Application
+A Django-based E-COMMERCE Application.
